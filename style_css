@@ -3,8 +3,8 @@
     --bg-dark: #0a0f1d;       /* Preto/Azul Escuro Futurista */
     --surface-dark: #12192c;  /* Azul Metálico Escuro */
     --text-light: #ffffff;    /* Branco */
-    --accent-blue: #00d2ff;   /* Azul Celeste */
-    --accent-green: #39ff14;  /* Verde Neon / Campo Digital */
+    --accent-blue: #00d0ffe1;   /* Azul Celeste */
+    --accent-red: #ff1414;  /* Vermrlho Neon / Campo Digital */
     --accent-gold: #ffd700;   /* Ouro / Inteligência */
 }
 
