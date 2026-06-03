@@ -27,31 +27,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
     console.log("Sistema de monitoramento da interface ativado com sucesso!");
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
